@@ -56,7 +56,7 @@ namespace kunskapstest
         {
            /// I denna fråga vill jag att du hittar ett sätt som tillförlitligt tar fram alla personer som är äldre än 25 och samtidigt bor i göteborg och sedan skriver ut deras idn.
            /// Men ni får inte använda forloopar eller foreach loopar. 
-           /// för att läsa uppgiften så kommer ni behöva googla efter lösingar. Sökordet ni får är LINQ.
+           /// för att läsa uppgiften så kommer ni behöva googla efter lösingar. Sökordet ni får är LINQ. ni skapar predicates genom att skriva x=>x.egenskapen ni söker efter
             List<Person> listamedpersoner = new();
             listamedpersoner.AddRange(PopulatePeople());
             List<Person> urval = new();
