@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kunskapstest", "kunskapstest\kunskapstest.csproj", "{D737632D-8D15-4292-B0CF-54F5A349B02E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D737632D-8D15-4292-B0CF-54F5A349B02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D737632D-8D15-4292-B0CF-54F5A349B02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D737632D-8D15-4292-B0CF-54F5A349B02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D737632D-8D15-4292-B0CF-54F5A349B02E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAEE6327-4580-4CF2-BDE6-C9C1414C0026}
+	EndGlobalSection
+EndGlobal
