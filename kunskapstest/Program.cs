@@ -74,7 +74,7 @@ namespace kunskapstest
 
             for (int i = 0; i < 30; i++)
             {
-                people.Add(new Person(name[rand.Next(0, name.Count)],rand.Next(15,75), (Stad)rand.Next(0,4)));
+                people.Add(new Person(name[rand.Next(0, name.Count)],rand.Next(15,75), (Stad)rand.Next(0,5)));
             }
             return people;
         }
