@@ -29,9 +29,8 @@ namespace kunskapstest
             {
                 var1++;
             }
-            string utmatning = var1 > 10 ? "stor" : "liten";
 
-            Console.WriteLine(utmatning);
+            Console.WriteLine(var1 > 10 ? "stor" : "liten");
         }
         static void Fråga2()
         {
